@@ -253,7 +253,7 @@ class Pelt:
     #misc descriptors
     texture = ["smooth", "fuzzy", "velvety", "greasy", "slimy", "rough", "soft", "fluffy"]
     size = ["tiny", "small", "medium", "large", "huge"]
-    species = ["mammallian", "feline", "amphibious", "reptillian", "insectoid", "aquatic", "aerial", "subterranean", "mechanical", "voidspawn"]
+    species = ["mammalian", "feline", "amphibious", "reptilian", "insectoid", "aquatic", "aerial", "subterranean", "mechanical", "voidspawn"]
     
     """Holds all appearance information for a cat. """
 
